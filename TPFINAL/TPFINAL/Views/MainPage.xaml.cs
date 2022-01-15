@@ -36,7 +36,7 @@ namespace TPFINAL
 
         private void OnAutores(object sender, EventArgs args)
         {
-            DisplayAlert("Autores", "Lorrane Meneses - Igor Nicolas", "OK");
+            DisplayAlert("Autores", "Bruna Gross - Gabriel Costa", "OK");
         }
 
         async private void OnMercadoriaTapped(object sender, ItemTappedEventArgs args)

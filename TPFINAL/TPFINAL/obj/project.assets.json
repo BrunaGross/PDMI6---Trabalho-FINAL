@@ -834,25 +834,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Igor Nicolas\\.nuget\\packages\\": {},
+    "C:\\Users\\Bruna Gross\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Igor Nicolas\\source\\repos\\TPFINAL\\TPFINAL\\TPFINAL\\TPFINAL.csproj",
+      "projectUniqueName": "C:\\Users\\Bruna Gross\\source\\repos\\TPFINAL\\TPFINAL\\TPFINAL\\TPFINAL.csproj",
       "projectName": "TPFINAL",
-      "projectPath": "C:\\Users\\Igor Nicolas\\source\\repos\\TPFINAL\\TPFINAL\\TPFINAL\\TPFINAL.csproj",
-      "packagesPath": "C:\\Users\\Igor Nicolas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Igor Nicolas\\source\\repos\\TPFINAL\\TPFINAL\\TPFINAL\\obj\\",
+      "projectPath": "C:\\Users\\Bruna Gross\\source\\repos\\TPFINAL\\TPFINAL\\TPFINAL\\TPFINAL.csproj",
+      "packagesPath": "C:\\Users\\Bruna Gross\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Bruna Gross\\source\\repos\\TPFINAL\\TPFINAL\\TPFINAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Igor Nicolas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Bruna Gross\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
